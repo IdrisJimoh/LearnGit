@@ -1,0 +1,19 @@
+<html>
+<head>
+
+<title>
+Welcome to about page
+
+</title>
+
+</head>
+<body>
+
+
+
+<p>Welcome to our about page</p>
+
+
+</body>
+
+</html>
